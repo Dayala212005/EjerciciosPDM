@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjerciciosPracticos</string>
+    <string name="Contador">Contador:</string>
+    <string name="IgresarNombre">Ingresar Nombre</string>
+</resources>
